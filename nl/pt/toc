@@ -1,0 +1,31 @@
+<!-- Markdown Navigation -->
+{: navgroup: .navgroup}
+{: topicgroup: .topicgroup}
+
+{: .toc subcollection="app-launch" audience="service" href="/docs/services/app-launch/index.html"}
+Ativação de app
+
+    {: .navgroup id="learn"}
+    index.md
+    app_overview.md
+
+    {: .topicgroup}
+    Etapas básicas
+		app_prerequisites.md
+		app_feature_toggle.md
+		app_measure_performance.md    
+    {: .navgroup-end}
+	
+    {: .navgroup id="reference"}
+    {: .topicgroup}
+    SDK
+        [Android SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
+        [SDK do iOS](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)	
+    {: .navgroup-end}
+    
+    
+
+    
+
+        
+    
