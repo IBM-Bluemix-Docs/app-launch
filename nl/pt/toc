@@ -11,9 +11,9 @@ Ativação de app
 
     {: .topicgroup}
     Etapas básicas
-        app_prerequisites.md
-        app_feature_toggle.md
-        app_measure_performance.md    
+		app_prerequisites.md
+		app_feature_toggle.md
+		app_measure_performance.md    
     {: .navgroup-end}
 	
     {: .navgroup id="reference"}
