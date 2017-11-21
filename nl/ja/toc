@@ -11,9 +11,9 @@ App Launch
 
     {: .topicgroup}
     基本ステップ
-		app_prerequisites.md
-		app_feature_toggle.md
-		app_measure_performance.md    
+        app_prerequisites.md
+        app_feature_toggle.md
+        app_measure_performance.md    
     {: .navgroup-end}
 	
     {: .navgroup id="reference"}
