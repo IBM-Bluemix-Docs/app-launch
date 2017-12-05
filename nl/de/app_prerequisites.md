@@ -19,13 +19,13 @@ Letzte Aktualisierung: 13. Oktober 2017
 ## App Launch-Serviceinstanz erstellen
 {: #prerequisites_1}
 
-1. Klicken Sie im [IBM Bluemix-Katalog](https://console.ng.bluemix.net/catalog/) auf **Mobile** > **App Launch**.
+1. Klicken Sie im [IBM Cloud-Katalog](https://console.ng.bluemix.net/catalog/) auf **Mobile** > **App Launch**.
 2. Geben Sie einen Servicenamen und einen Berechtigungsnachweisnamen an.
 3. Stellen Sie optional eine Verbindung zu anderen vorhandenen Apps her oder erstellen Sie keine Servicebindung.
 4. Klicken Sie auf **Erstellen**.
 
 
-Sie können auswählen, ob Sie einen Service mit oder ohne Bindung erstellen möchten. Services mit Bindung sind mit anderen Bluemix-Apps verbunden, Services ohne Bindung sind eigenständig und nicht mit anderen Apps verbunden. Apps des App Launch-Service weisen standardmäßig keine Bindung auf.
+Sie können auswählen, ob Sie einen Service mit oder ohne Bindung erstellen möchten. Services mit Bindung sind mit anderen IBM Cloud-Apps verbunden, Services ohne Bindung sind eigenständig und nicht mit anderen Apps verbunden. Apps des App Launch-Service weisen standardmäßig keine Bindung auf.
 
 ## App initialisieren
 {: #prerequisites_app}

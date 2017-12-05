@@ -19,13 +19,13 @@ copyright:
 ## Creación de una instancia de servicio de App Launch
 {: #prerequisites_1}
 
-1. En [IBM Bluemix Catalog](https://console.ng.bluemix.net/catalog/), pulse **Móvil** > **App Launch**.
+1. En [IBM Cloud Catalog](https://console.ng.bluemix.net/catalog/), pulse **Móvil** > **App Launch**.
 2. Indique un nombre de servicio y un nombre de credencial.
 3. Elija conectar con otras apps existentes o dejarlo sin enlazar.
 4. Pulse **Crear**.
 
 
-Puede elegir crear un servicio enlazado o no enlazado. Los servicios enlazados se conectan a otras apps de Bluemix, mientras que los servicios no enlazados son independientes y no están conectados a otras apps. De forma predeterminada, las apps del servicio App Launch no están enlazadas.
+Puede elegir crear un servicio enlazado o no enlazado. Los servicios enlazados se conectan a otras apps de IBM Cloud, mientras que los servicios no enlazados son independientes y no están conectados a otras apps. De forma predeterminada, las apps del servicio App Launch no están enlazadas.
 
 ## Inicialización de la app
 {: #prerequisites_app}

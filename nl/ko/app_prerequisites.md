@@ -19,13 +19,13 @@ copyright:
 ## App Launch 서비스 인스턴스 작성
 {: #prerequisites_1}
 
-1. [IBM Bluemix 카탈로그](https://console.ng.bluemix.net/catalog/)에서 **모바일** > **App Launch**를 클릭하십시오.
+1. [IBM Cloud 카탈로그](https://console.ng.bluemix.net/catalog/)에서 **모바일** > **App Launch**를 클릭하십시오.
 2. 서비스 이름과 신임 정보 이름을 제공하십시오.
 3. 기존의 다른 앱에 연결하거나 바인딩되지 않은 상태를 유지하도록 선택하십시오.
 4. **작성**을 클릭하십시오.
 
 
-바인딩된 서비스 또는 바인딩되지 않은 서비스를 작성할 것인지 선택할 수 있습니다. 바인딩된 서비스는 다른 Bluemix 앱에 연결되는 반면에 바인딩되지 않은 서비스는 독립형이며 다른 앱에 연결되지 않습니다. App Launch 서비스 앱은 기본적으로 바인딩되지 않습니다.
+바인딩된 서비스 또는 바인딩되지 않은 서비스를 작성할 것인지 선택할 수 있습니다. 바인딩된 서비스는 다른 IBM Cloud 앱에 연결되는 반면에 바인딩되지 않은 서비스는 독립형이며 다른 앱에 연결되지 않습니다. App Launch 서비스 앱은 기본적으로 바인딩되지 않습니다.
 
 ## 앱 초기화
 {: #prerequisites_app}

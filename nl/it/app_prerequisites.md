@@ -19,13 +19,13 @@ Ultimo aggiornamento: 13 ottobre 2017
 ## Creazione di un'istanza del servizio App Launch
 {: #prerequisites_1}
 
-1. Nel [Catalogo IBM Bluemix](https://console.ng.bluemix.net/catalog/), fai clic su **Mobile** > **App Launch**.
+1. Nel [Catalogo IBM Cloud](https://console.ng.bluemix.net/catalog/), fai clic su **Mobile** > **App Launch**.
 2. Fornisci un nome del servizio e delle credenziali.
 3. Scegli di collegarti ad altre applicazioni esistenti o lascialo senza associazioni.
 4. Fai clic su **Create**.
 
 
-Puoi scegliere di creare un servizio associato o non associato. I servizi associati sono collegati ad altre applicazioni Bluemix, mentre i servizi non associati sono autonomi e non collegati ad altre applicazioni. Le applicazioni del servizio App Launch non sono collegate per impostazioni predefinita.
+Puoi scegliere di creare un servizio associato o non associato. I servizi associati sono collegati ad altre applicazioni IBM Cloud, mentre i servizi non associati sono autonomi e non collegati ad altre applicazioni. Le applicazioni del servizio App Launch non sono collegate per impostazioni predefinita.
 
 ## Inizializzazione della tua applicazione
 {: #prerequisites_app}

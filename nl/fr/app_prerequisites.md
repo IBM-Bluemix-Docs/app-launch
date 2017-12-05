@@ -19,13 +19,13 @@ Dernière mise à jour : 13 octobre 2017
 ## Création d'une instance de service App Launch
 {: #prerequisites_1}
 
-1. Dans le [catalogue IBM Bluemix](https://console.ng.bluemix.net/catalog/), cliquez sur **Mobile** > **App Launch**.
+1. Dans le [catalogue IBM Cloud](https://console.ng.bluemix.net/catalog/), cliquez sur **Mobile** > **App Launch**.
 2. Indiquez un nom pour le service et un nom pour les données d'identification.
 3. Choisissez de vous connecter à d'autres applications existantes ou laissez le service non lié.
 4. Cliquez sur **Créer**.
 
 
-Vous pouvez choisir de créer un service lié ou un service non lié. Les services liés sont connectés à d'autres applications Bluemix, tandis que les services non liés restent autonomes sans connexion à d'autres applications. Les applications de service App Launch sont, par défaut, non liés.
+Vous pouvez choisir de créer un service lié ou un service non lié. Les services liés sont connectés à d'autres applications IBM Cloud, tandis que les services non liés restent autonomes sans connexion à d'autres applications. Les applications de service App Launch sont, par défaut, non liés.
 
 ## Initialisation de votre application
 {: #prerequisites_app}

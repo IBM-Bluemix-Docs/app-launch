@@ -19,13 +19,13 @@ copyright:
 ## Criando uma instância de serviço de Ativação de app
 {: #prerequisites_1}
 
-1. No [IBM Bluemix Catalog](https://console.ng.bluemix.net/catalog/), clique em **Móvel** > **Ativação de app**.
+1. No [IBM Cloud Catalog](https://console.ng.bluemix.net/catalog/), clique em **Móvel** > **Ativação de app**.
 2. Forneça um nome de Serviço e um nome de Credencial.
 3. Escolha se conectar a outros apps existentes ou deixe desvinculado.
 4. Clique em **Criar**.
 
 
-É possível escolher criar um serviço de limite ou um serviço desvinculado. Os serviços de limite estão conectados a outros apps do Bluemix, enquanto os serviços desvinculados são independentes e não conectados a outros apps. Os apps de serviço de Ativação de app são desvinculados por padrão.
+É possível escolher criar um serviço de limite ou um serviço desvinculado. Os serviços de limite estão conectados a outros apps do IBM Cloud, enquanto os serviços desvinculados são independentes e não conectados a outros apps. Os apps de serviço de Ativação de app são desvinculados por padrão.
 
 ## Inicializando o seu app
 {: #prerequisites_app}

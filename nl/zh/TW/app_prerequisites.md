@@ -19,13 +19,13 @@ copyright:
 ## 建立 App Launch 服務實例
 {: #prerequisites_1}
 
-1. 在 [IBM Bluemix 型錄](https://console.ng.bluemix.net/catalog/)中，按一下**行動** > **App Launch**。
+1. 在 [IBM Cloud 型錄](https://console.ng.bluemix.net/catalog/)中，按一下**行動** > **App Launch**。
 2. 提供服務名稱和認證名稱。
 3. 選擇連接至其他現有應用程式，或維持不連結。
 4. 按一下**建立**。
 
 
-您可以選擇建立連結服務或未連結服務。連結服務會連接至其他 Bluemix 應用程式，而未連結服務則是獨立式且未連接至其他應用程式。依預設，App Launch 服務應用程式為未連結。
+您可以選擇建立連結服務或未連結服務。連結服務會連接至其他 IBM Cloud 應用程式，而未連結服務則是獨立式且未連接至其他應用程式。依預設，App Launch 服務應用程式為未連結。
 
 ## 起始設定應用程式
 {: #prerequisites_app}
