@@ -12,7 +12,7 @@ copyright:
 
 # Frequently Asked Questions
 {: #feature_control}
-Last updated: 12 October 2017
+Last updated: 18 January 2018
 {: .last-updated}
 
 

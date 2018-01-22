@@ -14,7 +14,7 @@ years: 2017
 
 # Getting started tutorial
 {: #gettingstartedtemplate}
-Last updated: 13 October 2017
+Last updated: 18 January 2018
 {: .last-updated}
 
 {:shortdesc}

@@ -13,12 +13,14 @@ copyright:
 
 # Analyzing the feature response
 {: #applaunch_type}
-Last updated: 12 October 2017
+Last updated: 18 January 2018
 {: .last-updated}
 
-App Launch empowers you to create and collect Feature Metrics for the various engagements that you have created.
+<!-- App Launch empowers you to create and collect Feature Metrics for the various engagements that you have created. -->
+App Launch empowers you to create and collect Metrics for the various engagements that you have created.
 
-Ensure that you have gone through and have completed the [prerequisites](app_prerequisites.html) and have [created an engagement using Feature Control](app_feature_toggle.html). 
+<!-- Ensure that you have gone through and have completed the [prerequisites](app_prerequisites.html) and have [created an engagement using Feature Control](app_feature_toggle.html).  -->
+Ensure that you have completed the [prerequisites](app_prerequisites.html) and have created an engagement. 
 
 Complete the following steps to collect metrics for the engagements that you have created:
 
@@ -28,12 +30,12 @@ Complete the following steps to collect metrics for the engagements that you hav
 
 	The Engagement Details window displays the collected information. 
 
-	![Information on the engagement](images/engagement_performance.gif)
+	![Information on the engagement](images/engagement_performance.png)
 
 
 The graph gives you real-time insights on how the feature was received by the target audience. You can use the information to understand the highlights or pain points and hence make further customization to the feature before rolling out the feature to broader audience.
 	
-![Information on the engagement](images/engagement_graph.gif)
+![Information on the engagement](images/engagement_graph.png)
  
 
 

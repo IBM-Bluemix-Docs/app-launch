@@ -6,24 +6,44 @@
 App Launch
 
     {: .navgroup id="learn"}
-    index.md
-    app_overview.md
-
-    {: .topicgroup}
-    Basic steps
-        app_prerequisites.md
-        app_feature_toggle.md
-        app_measure_performance.md    
+	app_overview.md
+	index.md
+	
+	{: .topicgroup}
+    Blogs
+        [Accelerate Innovation Delivery](https://www.ibm.com/blogs/bluemix/2017/10/announcing-app-launch-experimental-service-bluemix/)
+        [Take control of your app feature rollout](https://www.ibm.com/blogs/bluemix/2017/10/take-control-app-feature-rollout-measure-effectiveness-using-bluemix-app-launch-service/)	
+    {: .navgroup-end}
+	
+    {: .navgroup id="howto"}	
+	app_prerequisites.md
+	
+	{: .topicgroup}
+    Creating an Engagement
+	    app_feature_toggle.md
+	    app_messaging.md
+	    		    	
+    app_measure_performance.md    
     {: .navgroup-end}
 	
     {: .navgroup id="reference"}
     {: .topicgroup}
     SDK
         [Android SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
-        [iOS SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)	
+        [iOS SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
+	
+	{: .topicgroup}
+	Release notes
+        release-notes.md
     {: .navgroup-end}
-    
-    
+	
+    {: .navgroup id="help"}
+    {: .topicgroup}
+    Developer community
+	    [StackOverflow](https://stackoverflow.com/questions/tagged/ibm-cloud-applaunch)
+        [IBM developerWorks](https://developer.ibm.com/answers/topics/bluemix-mobile-services/)
+    {: .navgroup-end}
+	
 
     
 
