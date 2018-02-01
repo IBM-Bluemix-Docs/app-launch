@@ -11,10 +11,15 @@ lastupdated: "18 January 2018"
 # Release notes
 The following new features and changes to the service are available. 
 
-## 22nd January 2018
-<!--  **Now available as a Beta version:** -->
-<!--    App Launch which was an experimental service on IBM Cloud is now available to the users as a Beta service.   -->
-<!--	Note : Delete the instances created on App launch experimental service, as they are no more functional. -->
+## 1st February 2018
+
+- **Now available as a Beta version:** 
+
+   App Launch which was an experimental service on IBM Cloud is now available to the users as a Beta service.   
+   
+   Note : Delete the instances created through CF (Cloud Foundry) on App launch experimental service, as they are no more functional. 
+   
+   The apps should be created through RC (Resource Controller)
 
 - **Creating an engagement using In-app Messages:**
     
