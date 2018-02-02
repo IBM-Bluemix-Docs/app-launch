@@ -12,7 +12,6 @@ App Launch
 	{: .topicgroup}
     Blogs
         [Accelerate Innovation Delivery](https://www.ibm.com/blogs/bluemix/2017/10/announcing-app-launch-experimental-service-bluemix/)
-        [Take control of your app feature rollout](https://www.ibm.com/blogs/bluemix/2017/10/take-control-app-feature-rollout-measure-effectiveness-using-bluemix-app-launch-service/)	
     {: .navgroup-end}
 	
     {: .navgroup id="howto"}	
