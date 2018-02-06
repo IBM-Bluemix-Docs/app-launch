@@ -17,7 +17,7 @@ Last updated: 18 January 2018
 
 The App Launch Client SDKs are currently available for Android and iOS. Below are the links to download and install platform specific SDKs.
 
-Read through the 'README' document in the SDK for detailed information on installation and technical concepts.
+Refer the 'README' document in the SDK for detailed information on installation and technical concepts.
 
 {: shortdesc}
 
