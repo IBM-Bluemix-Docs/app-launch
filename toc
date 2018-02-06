@@ -26,6 +26,8 @@ App Launch
     {: .navgroup-end}
 	
     {: .navgroup id="reference"}
+    install-sdk.md
+	
     {: .topicgroup}
     SDK
         [Android SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
