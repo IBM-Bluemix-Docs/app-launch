@@ -23,9 +23,9 @@ Read through the 'README' document in the SDK for detailed information on instal
 
 ## Android SDK
 
-   [Installing the Android Client SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
+   Installing the [Android Client SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
 
 
 ## iOS SDK
 
-   [Installing the iOS Client SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
+   Installing the [iOS Client SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
