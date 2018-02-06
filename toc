@@ -28,11 +28,6 @@ App Launch
     {: .navgroup id="reference"}
     install-sdk.md
 	
-    {: .topicgroup}
-    SDK
-        [Android SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
-        [iOS SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
-	
 	{: .topicgroup}
 	Release notes
         release-notes.md
