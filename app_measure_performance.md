@@ -11,7 +11,7 @@ copyright:
 {:screen:.screen}
 {:codeblock:.codeblock}
 
-# Analyzing the feature response
+# Analyzing the response results
 {: #applaunch_type}
 Last updated: 18 January 2018
 {: .last-updated}
