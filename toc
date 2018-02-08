@@ -12,6 +12,7 @@ App Launch
 	{: .topicgroup}
     Blogs
         [Accelerate Innovation Delivery](https://www.ibm.com/blogs/bluemix/2017/10/announcing-app-launch-experimental-service-bluemix/)
+        [Usage Scenario](https://www.ibm.com/blogs/bluemix/2018/01/app-launch-ibm-cloud-services/)
     {: .navgroup-end}
 	
     {: .navgroup id="howto"}	
