@@ -29,6 +29,10 @@ App Launch
     {: .navgroup id="reference"}
     install-sdk.md
 	
+    {: .topicgroup}
+    API reference
+        app_api.md
+	
 	{: .topicgroup}
 	Release notes
         release-notes.md
