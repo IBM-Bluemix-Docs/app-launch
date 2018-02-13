@@ -33,7 +33,7 @@ The salient features of the App Launch services are:
 
 * Adapt application based on context
 
-    Application behavior, user interface, messages (push notifications, in-app messages) can be customized for specific audience segments. For example, app background can be changed based on user location. This user personalization results in higher engagement of users with the application.
+    Application behavior, user interface, notifications can be customized for specific audience segments. For example, app background can be changed based on user location. This user personalization results in higher engagement of users with the application.
 
 * A / B test features
 
