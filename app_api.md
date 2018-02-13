@@ -10,6 +10,6 @@ lastupdated: "12 February 2018"
 
 #API reference
 
- - [API Reference for iOS](http://ibm-bluemix-mobile-services.github.io/API-docs/client-SDK/ICAppLaunch/Swift/index.html#creating-the-service)
- - [API Reference for Android](http://ibm-bluemix-mobile-services.github.io/API-docs/client-SDK/ICAppLaunch/Java/index.html)
- - [REST API Reference](https://console.bluemix.net/apidocs/1716-app-launch)
+ - API Reference for [iOS](http://ibm-bluemix-mobile-services.github.io/API-docs/client-SDK/ICAppLaunch/Swift/index.html#creating-the-service)
+ - API Reference for [Android](http://ibm-bluemix-mobile-services.github.io/API-docs/client-SDK/ICAppLaunch/Java/index.html)
+ - [REST API](https://console.bluemix.net/apidocs/1716-app-launch) Reference
