@@ -32,7 +32,7 @@ The basic steps that will get you started:
 
 The following image gives you an overview of the {{site.data.keyword.engage_short}} service life cycle.
 
-![Cognitive Engage overview](images/applaunch_overview.gif)
+![Cognitive Engage overview](images/process_app_launch.png)
 
 
   
