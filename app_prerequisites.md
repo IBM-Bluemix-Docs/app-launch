@@ -20,9 +20,10 @@ Last updated: 18 January 2018
 {: #prerequisites_1}
 
 1. In the [IBM Cloud Catalog](https://console.ng.bluemix.net/catalog/), click **Mobile** > **App Launch**.
-2. Provide a Service name and a Credential name.
-3. Choose to connect to other existing apps, or leave it unbound.
-4. Click **Create**.
+2. Provide a Service name.
+3. Click **Create**.
+4. Choose to connect to other existing apps, or leave it unbound.
+
 
 You can choose to create either a bound service or an unbound service. Bound services are connected to other IBM Cloud apps, while unbound services are standalone and not connected to other apps. App Launch service apps are unbound by default.
 
