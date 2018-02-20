@@ -42,54 +42,34 @@ Ensure that you have gone through and have the necessary [prerequisites](app_pre
 
 Complete the following steps to create an engagement using the Messaging option:
 
+![animated gif](images/in-app-engagement_animated.gif)
+
 1. You can create an engagement using either of the following methods:
 	- Click **Engagements** in the navigation pane. 
 	- Select **Create Engagement** on the new Feature that you have created.
 	- In the navigation pane, click **Overview** > **Create New Engagement**.
 	
-	![Feature ready to be used](images/feature_creating.png)
-	
 2. The New Engagement window appears.
- 
-	![New engagement](images/engagement_messaging_1.png)
 	
 3. Provide a name and description to your new engagement. Ensure that you give a unique engagement name and not one that is already listed in Engagements.
 
     **Select Engagement type** as **In-App Messaging**
 	
-	To do a controlled experiment with multiple variants of the messaging feature, select **A/B testing** on the **Select Experimentation Type**.
+	To do a controlled experiment with multiple variants of the messaging feature, select **A/B testing** on the **Select Experimentation Type**. Click **Next**.
 
-4. Click **Next**. 
+4. Fill in the message properties and click **Next**.
+	
+5. **Select Audience** and the percentage of audience you want to reach out to. Click **Next**.
 
-5. Fill in the message properties and click **Next**.
-	
-	![Adding messaging attributes](images/engagement_messaging_2.png)
-	
-6. Click **Next**. 
+6. Define a trigger by selecting a **Start/End Date and Time**. 
 
-7. **Select Audience** and the percentage of audience you want to reach out to.
-	
-	![Selecting an audience](images/engagement_messaging_3.png)
-	
-8. Click **Next**.
+    **Select Event.**  Click **Next**.	
 
-9. Define a trigger by selecting a **Start/End Date and Time**. 
-
-    **Select Event.**
-	
-	![Selecting an audience](images/engagement_messaging_4.png)
-	
-10. Click **Next**.	
-
-11. Map the elements to the metrics you want to measure through them. Select the element and fill in the metric details.
-	
-	![Selecting an audience](images/engagement_messaging_5.png)
-	
-12. Click **Save**.	
+7. Map the elements to the metrics you want to measure through them. Select the element and fill in the metric details. Click **Save**.	
 
 The new engagement now appears in the Engagement Details window.
 	
-You can now measure the performance of your engagement.	
+You can now measure the [performance](app_measure_performance.html) of your engagement.	
 	
 
 
