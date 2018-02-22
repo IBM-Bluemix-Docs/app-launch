@@ -8,6 +8,7 @@ App Launch
     {: .navgroup id="learn"}
 	app_overview.md
 	index.md
+    developer-overview.md
 	
 	{: .topicgroup}
     Blogs
