@@ -9,10 +9,6 @@ App Launch
 	app_overview.md
 	index.md
     developer-overview.md
-	
-	{: .topicgroup}
-    Blogs
-        app_blogs.md
     {: .navgroup-end}
 	
     {: .navgroup id="howto"}	
@@ -28,21 +24,13 @@ App Launch
 	
     {: .navgroup id="reference"}
     install-sdk.md
-	
-    {: .topicgroup}
-    API reference
-        app_api.md
-	
-	{: .topicgroup}
-	Release notes
-        release-notes.md
+    app_api.md
+    relatedlinks.md
     {: .navgroup-end}
 	
     {: .navgroup id="help"}
-    {: .topicgroup}
-    Developer community
-	    [StackOverflow](https://stackoverflow.com/questions/tagged/ibm-cloud-applaunch)
-        [IBM developerWorks](https://developer.ibm.com/answers/topics/bluemix-mobile-services/)
+    release-notes.md
+    troubleshooting.md	
     {: .navgroup-end}
 	
 
