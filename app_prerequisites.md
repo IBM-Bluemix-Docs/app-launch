@@ -32,8 +32,8 @@ You can choose to create either a bound service or an unbound service. Bound ser
 
 1. Click **Settings**.
 1. Download either of the SDK's, based on your platform type:
-	- [iOS](https://github.ibm.com/Engage/bms-clientsdk-ios-swift-engage)
-	- [Android](https://github.ibm.com/Engage/bms-clientsdk-android-engage)
+	- [iOS](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
+	- [Android](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
 
 2. Copy the configuration keys to initialize your App. Use the App Secret, App GUID, and Client Secret to configure your app and create engagements.
 
