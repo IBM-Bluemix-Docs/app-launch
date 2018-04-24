@@ -10,7 +10,7 @@ lastupdated: "2018-02-15"
 {:shortdesc: .shortdesc}
 
 
-# Blogs
+# Blogs and Videos
 
 ## Blogs
 {: #blogs}
@@ -22,3 +22,13 @@ lastupdated: "2018-02-15"
 * <a href="https://admin.blogs.prd.ibm.event.ibm.com/blogs/bluemix/2018/02/ab-testing-using-app-launch-ibm-cloud-services/" target="_blank">A/B Testing <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
 
 
+## Videos
+{: #videos}
+
+* <a href="https://www.youtube.com/watch?v=xsYygH7KQLg" target="_blank">App Launch Overview <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
+* <a href="https://www.youtube.com/watch?v=dq8_THTRYiQ" target="_blank"> Tour of Features <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
+* <a href="https://www.youtube.com/watch?v=esdL2r5JqQY" target="_blank"> Feature Toggle <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
+* <a href="https://www.youtube.com/watch?v=Fd3Dw53Vy18" target="_blank">App Theme Customization <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
+* <a href="https://www.youtube.com/watch?v=qs0ovIGEKpw" target="_blank">In-App Messaging <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
+* <a href="https://www.youtube.com/watch?v=9qsXz0mz_04" target="_blank"> Test Feature variants - A/B Testing <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
+* <a href="https://www.youtube.com/watch?v=ISgWqQv9iIw" target="_blank"> Feature cutomization based on audience <img src="../../icons/launch-glyph.svg" alt="External link icon"></a>
