@@ -3,27 +3,36 @@
 {: topicgroup: .topicgroup}
 
 {: .toc subcollection="app-launch" audience="service" href="/docs/services/app-launch/index.html"}
-应用程序启动
+App Launch
 
     {: .navgroup id="learn"}
-    index.md
-    app_overview.md
-
-    {: .topicgroup}
-    基本步骤
-        app_prerequisites.md
-        app_feature_toggle.md
-        app_measure_performance.md    
+	app_overview.md
+	index.md
+    developer-overview.md
+    {: .navgroup-end}
+	
+    {: .navgroup id="howto"}	
+	app_prerequisites.md
+	
+	{: .topicgroup}
+    创建参与
+	    app_feature_toggle.md
+	    app_messaging.md
+	    		    	
+    app_measure_performance.md    
     {: .navgroup-end}
 	
     {: .navgroup id="reference"}
-    {: .topicgroup}
-    SDK
-        [Android SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
-        [iOS SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)	
+    install-sdk.md
+    app_api.md
+    relatedlinks.md
     {: .navgroup-end}
-    
-    
+	
+    {: .navgroup id="help"}
+    release-notes.md
+    troubleshooting.md	
+    {: .navgroup-end}
+	
 
     
 

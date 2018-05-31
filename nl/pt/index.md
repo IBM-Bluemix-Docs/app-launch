@@ -14,7 +14,7 @@ years: 2017
 
 # Tutorial Introdução
 {: #gettingstartedtemplate}
-Última atualização: 15 de outubro de 2017
+Última atualização: 18 de janeiro de 2018
 {: .last-updated}
 
 {:shortdesc}
@@ -32,7 +32,7 @@ As etapas básicas que farão você iniciar a utilização:
 
 A imagem a seguir fornece uma visão geral do ciclo de vida do serviço {{site.data.keyword.engage_short}}.
 
-![Visão geral do Cognitive Engage](images/applaunch_overview.gif)
+![Visão geral do Cognitive Engage](images/process_app_launch.png)
 
 
   

@@ -12,7 +12,7 @@ copyright:
 
 # Foire aux questions
 {: #feature_control}
-Dernière mise à jour : 12 octobre 2017
+Dernière mise à jour le 18 janvier 2018
 {: .last-updated}
 
 

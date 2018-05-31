@@ -6,24 +6,33 @@
 Ativação de app
 
     {: .navgroup id="learn"}
-    index.md
-    app_overview.md
-
-    {: .topicgroup}
-    Etapas básicas
-        app_prerequisites.md
-        app_feature_toggle.md
-        app_measure_performance.md    
+	app_overview.md
+	index.md
+    developer-overview.md
+    {: .navgroup-end}
+	
+    {: .navgroup id="howto"}	
+	app_prerequisites.md
+	
+	{: .topicgroup}
+    Criando um Compromisso
+	    app_feature_toggle.md
+	    app_messaging.md
+	    		    	
+    app_measure_performance.md    
     {: .navgroup-end}
 	
     {: .navgroup id="reference"}
-    {: .topicgroup}
-    SDK
-        [Android SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
-        [SDK do iOS](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)	
+    install-sdk.md
+    app_api.md
+    relatedlinks.md
     {: .navgroup-end}
-    
-    
+	
+    {: .navgroup id="help"}
+    release-notes.md
+    troubleshooting.md	
+    {: .navgroup-end}
+	
 
     
 

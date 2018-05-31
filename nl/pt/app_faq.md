@@ -12,7 +12,7 @@ copyright:
 
 # Perguntas mais frequentes
 {: #feature_control}
-Última atualização: 12 de outubro de 2017
+Última atualização: 18 de janeiro de 2018
 {: .last-updated}
 
 

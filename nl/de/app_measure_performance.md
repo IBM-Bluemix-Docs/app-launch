@@ -11,14 +11,16 @@ copyright:
 {:screen:.screen}
 {:codeblock:.codeblock}
 
-# Reaktion auf Features analysieren
+# Ergebnisse der Reaktion analysieren
 {: #applaunch_type}
-Letzte Aktualisierung: 12. Oktober 2017
+Letzte Aktualisierung: 18. Januar 2018
 {: .last-updated}
 
-Mithilfe von App Launch können Sie Featuremetriken für die verschiedenen Projekte, die Sie erstellt haben, erstellen und erfassen.
+<!-- App Launch empowers you to create and collect Feature Metrics for the various engagements that you have created. -->
+Mithilfe von App Launch können Sie Metriken für die verschiedenen Projekte, die Sie erstellt haben, erstellen und erfassen.
 
-Stellen Sie sicher, dass alle [Voraussetzungen](app_prerequisites.html) erfüllt sind und dass ein [Projekt mithilfe von Feature Control erstellt](app_feature_toggle.html) wurde. 
+<!-- Ensure that you have gone through and have completed the [prerequisites](app_prerequisites.html) and have [created an engagement using Feature Control](app_feature_toggle.html).  -->
+Stellen Sie sicher, dass alle [Voraussetzungen](app_prerequisites.html) erfüllt sind und dass ein Projekt erstellt wurde. 
 
 Führen Sie die folgenden Schritte aus, um Metriken für die erstellten Projekte zu erfassen:
 
@@ -28,12 +30,12 @@ Führen Sie die folgenden Schritte aus, um Metriken für die erstellten Projekte
 
 	Im Fenster mit Projektdetails werden die erfassten Informationen angezeigt. 
 
-	![Informationen zum Projekt](images/engagement_performance.gif)
+	![Informationen zum Projekt](images/engagement_performance.png)
 
 
 Das Diagramm liefert Einblicke zur Reaktion der Zielgruppe auf das Feature in Echtzeit. Sie können die Informationen verwenden, um Schwerpunkte und Problempunkte zu analysieren, und so weitere Anpassungen für das betreffende Feature vornehmen, bevor Sie es einer größeren Zielgruppe bereitstellen.
 	
-![Informationen zum Projekt](images/engagement_graph.gif)
+![Informationen zum Projekt](images/engagement_graph.png)
  
 
 

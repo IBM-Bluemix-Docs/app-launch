@@ -29,3 +29,7 @@ Refer the 'README' document in the SDK for detailed information on installation 
 ## iOS SDK
 
    Installing the [iOS Client SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
+   
+## Web SDK
+
+   Installing the [Web Client SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-web-applaunch)   

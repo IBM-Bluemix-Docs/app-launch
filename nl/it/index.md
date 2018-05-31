@@ -14,7 +14,7 @@ years: 2017
 
 # Esercitazione introduttiva
 {: #gettingstartedtemplate}
-Ultimo aggiornamento: 15 ottobre 2017
+Ultimo aggiornamento: 18 gennaio 2018
 {: .last-updated}
 
 {:shortdesc}
@@ -32,7 +32,7 @@ I passi di base per iniziare:
 
 La seguente immagine ti fornisce una panoramica del ciclo di vita del servizio {{site.data.keyword.engage_short}}.
 
-![Panoramica Cognitive Engage](images/applaunch_overview.gif)
+![Panoramica Cognitive Engage](images/process_app_launch.png)
 
 
   

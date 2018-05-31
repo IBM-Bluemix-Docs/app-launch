@@ -12,7 +12,7 @@ copyright:
 
 # Prerequisiti
 {: #prerequisites}
-Ultimo aggiornamento: 13 ottobre 2017
+Ultimo aggiornamento: 18 gennaio 2018
 {: .last-updated}
 
 
@@ -20,9 +20,9 @@ Ultimo aggiornamento: 13 ottobre 2017
 {: #prerequisites_1}
 
 1. Nel [Catalogo IBM Cloud](https://console.ng.bluemix.net/catalog/), fai clic su **Mobile** > **App Launch**.
-2. Fornisci un nome del servizio e delle credenziali.
-3. Scegli di collegarti ad altre applicazioni esistenti o lascialo senza associazioni.
-4. Fai clic su **Create**.
+2. Fornisci un nome del servizio. 
+3. Fai clic su **Create**.
+4. Scegli di collegarti ad altre applicazioni esistenti o lascialo senza associazioni.
 
 
 Puoi scegliere di creare un servizio associato o non associato. I servizi associati sono collegati ad altre applicazioni IBM Cloud, mentre i servizi non associati sono autonomi e non collegati ad altre applicazioni. Le applicazioni del servizio App Launch non sono collegate per impostazioni predefinita.
@@ -32,8 +32,8 @@ Puoi scegliere di creare un servizio associato o non associato. I servizi associ
 
 1. Fai clic su **Settings**.
 1. Scarica uno degli SDK, in base al tuo tipo di piattaforma:
-	- [iOS](https://github.ibm.com/Engage/bms-clientsdk-ios-swift-engage)
-	- [Android](https://github.ibm.com/Engage/bms-clientsdk-android-engage)
+	- [iOS](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
+	- [Android](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
 
 2. Copia le chiavi di configurazione per inizializzare la tua applicazione. Utilizza segreto applicazione, GUID applicazione e segreto client per configurare la tua applicazione e creare gli impegni.
 
@@ -46,50 +46,51 @@ Il servizio {{site.data.keyword.engage_short}} ti consente di creare e verificar
 
 Per creare una funzione, completa la seguente procedura: 
 
-1. Fai clic su **Features & Metrics** > **Create Feature**.
+![Dettagli funzione](images/feature_creation_animated.gif)
 
-2. Aggiorna il modulo Create New Feature and Metrics con un nome e una descrizione della funzione appropriati. Puoi anche definire le proprietà della funzione e aggiungere metriche per misurare l'impatto del tuo impegno.
+1. Nel pannello di navigazione, fai clic su **Features** > **Create New Feature** 
 
-3. Fai clic su **Create**. La nuova funzione viene ora visualizzata nel pannello delle funzioni e delle metriche.
-![Nuove funzioni](images/feature_creating.gif)
+2. Aggiorna il modulo Create New Feature and Metrics con un nome e una descrizione della funzione appropriati. Puoi anche definire le proprietà della funzione e aggiungere metriche per misurare l'impatto del tuo impegno. Fai clic su **Bulk edit** per aggiungere più proprietà modificando il JSON.
 
-4. Per abilitare una funzione da utilizzare come un impegno, fai clic sulla funzione che hai creato. 
+3. Fai clic su **Create**. La nuova funzione viene ora visualizzata nel pannello Features. 
 
-5. Nella finestra dei dettagli della funzione, scegli di aggiornare lo stato della tua funzione in **Ready**.
-![Dettagli funzione](images/feature_details.gif)
+4. Abilitare la funzione una volta sviluppato. 
 
-6. Fai clic su **Update Status**.
+5. Per abilitare una funzione da utilizzare come un impegno, fai clic sulla funzione che hai creato.
 
-7. Aggiorna la tua applicazione in modo che includa i codici della funzione e gli attributi appena creati nella tua applicazione iOS o Android. 
+6. Nella finestra dei dettagli della funzione, scegli di aggiornare lo stato della tua funzione in **Ready**.
 
-8. La funzione è ora pronta per essere utilizzata.
-![Funzione pronta per essere utilizzata](images/feature_multiple_1.gif)
+7. Fai clic su **Update** stato.
+
+8. Aggiorna la tua applicazione in modo che includa i codici della funzione e gli attributi appena creati nella tua applicazione iOS o Android. 
+
+9. La funzione è ora pronta per essere utilizzata. 
+
+La finestra Feature Details ha un'opzione per esportare la funzione come un file JSON che può essere utilizzato nell'applicazione client per caricare i valori predefiniti.
 
 
 ## Creazione dei destinatari
 {: #prerequisites_2}
 
-Per creare i destinatari, completa la seguente procedura: 
+Per creare i destinatari, completa la seguente procedura:
+
+![Crea destinatari](images/create_audience_animated.gif)
 
 1. Crea un attributo dei destinatari. 
 
-	a. Fai clic su **Audience** > **Create Audience Attribute**.
+	Fai clic su **Audience** > **Create Attribute**.
 
-	b. Fornisci i seguenti valori:
+	Fornisci i seguenti valori:
 
 	- **Nome**: fornisci un nome appropriato per l'attributo.
 	- **Descrizione**: una breve descrizione dell'attributo.
 	- **Tipo**:	scegli il tipo di attributo.
 	- **Valori consentiti**: immetti i valori dell'attributo che desideri utilizzare.
 
-	![Attributi destinatari](images/audience_attribute_creation.gif)
-
-	Puoi scegliere di creare più attributi dei destinatari, come elencato nella seguente immagine, in base ai tuoi requisiti.
+    Puoi scegliere di creare più attributi dei destinatari, come elencato nella seguente immagine, in base ai tuoi requisiti.
 	
-	![Attributi destinatari](images/audience_attributes.gif)
-
-
-2. Crea i destinatari. 
+	
+2. Crea i destinatari.
 
 	a. Fai clic su **Create Audience**.
 
@@ -97,10 +98,10 @@ Per creare i destinatari, completa la seguente procedura:
 
 	c. Seleziona un attributo e fai clic su **Add**.
 
-	![Attributi destinatari](images/audience_platforms.gif)
-
-	d. Scegli le opzioni richieste dagli attributi elencati.
+    d. Scegli le opzioni richieste dagli attributi elencati.
 
 	e. Fai clic su **Save**.
+	
+	Puoi ora creare un impegno. 
 
-Puoi ora creare un impegno utilizzando l'opzione [Feature Control](app_feature_toggle.html).
+<!-- You can now create an engagement using the [Feature Control](app_feature_toggle.html) option. -->

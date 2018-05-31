@@ -36,7 +36,7 @@ Access the below App Launch Functions from your backend server applications and 
 ## Using Software Development Kits
 {: #sdks}
 
-The App Launch Service currently supports Android and iOS SDKs for simplified application development. [Install and integrate](install-sdk.html) the SDK into your app. 
+The App Launch Service currently supports iOS, Android and Web SDKs for simplified application development. [Install and integrate](install-sdk.html) the SDK into your app. 
 
 All SDKs support authenticating by using either your service credentials or an authentication token.
 

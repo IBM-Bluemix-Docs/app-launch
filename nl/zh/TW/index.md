@@ -14,7 +14,7 @@ years: 2017
 
 # 入門指導教學
 {: #gettingstartedtemplate}
-前次更新：2017 年 10 月 15 日
+前次更新：2018 年 1 月 18 日
 {: .last-updated}
 
 {:shortdesc}
@@ -32,7 +32,7 @@ years: 2017
 
 下圖提供您 {{site.data.keyword.engage_short}} 服務生命週期的概觀。
 
-![Cognitive Engage 概觀](images/applaunch_overview.gif)
+![Cognitive Engage 概觀](images/process_app_launch.png)
 
 
   

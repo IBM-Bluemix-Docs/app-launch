@@ -12,7 +12,7 @@ copyright:
 
 # 常見問題集
 {: #feature_control}
-前次更新：2017 年 10 月 12 日
+前次更新：2018 年 1 月 18 日
 {: .last-updated}
 
 

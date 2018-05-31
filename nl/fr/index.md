@@ -14,7 +14,7 @@ years: 2017
 
 # Tutoriel Premiers pas
 {: #gettingstartedtemplate}
-Dernière mise à jour : 15 octobre 2017
+Dernière mise à jour le 18 janvier 2018
 {: .last-updated}
 
 {:shortdesc}
@@ -32,7 +32,7 @@ Procédures de base qui vous permettront de démarrer :
 
 L'image suivante présente le cycle de vie du service {{site.data.keyword.engage_short}}.
 
-![Présentation d'engagement cognitif](images/applaunch_overview.gif)
+![Présentation d'engagement cognitif](images/process_app_launch.png)
 
 
   

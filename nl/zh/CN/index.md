@@ -14,7 +14,7 @@ years: 2017
 
 # 入门教程
 {: #gettingstartedtemplate}
-上次更新时间：2017 年 10 月 15 日
+上次更新：2018 年 1 月 18 日
 {: .last-updated}
 
 {:shortdesc}
@@ -32,7 +32,7 @@ years: 2017
 
 下图概要介绍了 {{site.data.keyword.engage_short}} 服务的生命周期。
 
-![感知参与概述](images/applaunch_overview.gif)
+![感知参与概述](images/process_app_launch.png)
 
 
   

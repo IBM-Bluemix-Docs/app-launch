@@ -10,41 +10,47 @@ copyright:
 {:screen:.screen}
 {:codeblock:.codeblock}
 
-# Criando um engajamento usando o Controle de recurso
+# Configuração do Recurso de Controle
 {: #feature_control}
-Última atualização: 12 de outubro de 2017
+Última atualização: 18 de janeiro de 2018
 {: .last-updated}
 
 É possível criar um engajamento usando o Controle de recurso. 
 
+Por meio desse engajamento, um proprietário de app pode controlar a visibilidade de um recurso ativando ou desativando-o durante o tempo de execução.
+
+Um recurso pode ser ativado/desativado para todos os usuários do aplicativo ou para um conjunto específico de usuários e dispositivos. 
+
+As apresentações de recursos podem ser planejadas e coordenadas definindo um horário e uma data de início/encerramento. Também é possível escolher um dia específico no qual um recurso definido deve ser ativado/desativado.
+
+**Ativando o Controle de Recursos**
+
 Assegure-se de que você completado e de que tenha os [pré-requisitos](app_prerequisites.html) disponíveis.
 
-A imagem a seguir fornece uma visão geral das etapas que precisam ser concluídas para criar um recurso.
-	![Recurso pronto para ser usado](images/feature_animated.gif)
-
 Conclua as etapas a seguir para criar um engajamento usando o Controle de recurso:
+
+![animated gif](images/create_engagement.gif)
 
 1. É possível criar um engajamento usando um dos métodos a seguir:
 	- Clique em **Engajamentos** na área de janela de navegação. 
 	- Selecione **Criar engajamentos** no novo Recurso que você criou.
-	- Na área de janela de navegação, clique em **Visão geral** > **Criar novo engajamento**. ![Recurso pronto para ser usado](images/feature_creating.gif)
-2. A janela Novo engajamento é exibida.
- 
-	![Novo engajamento](images/engagement_feature_1.gif)
-3. Forneça um nome e uma descrição para o seu novo engajamento. Assegure-se de que você dê um nome exclusivo ao engajamento e não um que já esteja listado em Engajamentos.
+	- Na área de janela de navegação, clique em **Visão geral** > **Criar novo engajamento**.
 	
-	Para fazer um experimento controlado com diversas variantes do recurso, selecione **Teste A/B** no Modo de teste.
+2. A janela Novo engajamento é exibida.
+	
+3. Forneça um nome e uma descrição para o seu novo engajamento. Assegure-se de que você dê um nome exclusivo ao engajamento e não um que já esteja listado em Engajamentos.
 
-4. Clique em **Next (Avançar)**.
-5. Escolha o Recurso que você criou. Também é possível optar por incluir e definir as variantes que você pode querer experimentar.  ![Incluindo um recurso e variantes](images/engagement_feature_5.gif)
+     **Selecionar tipo de engajamento** como **Controle de recurso**	
+	
+	Para executar um experimento controlado com múltiplas variantes do recurso, selecione **Teste A/B** em **Selecionar tipo de experimento**. Clique em **Next (Avançar)**.
+	
+4. Escolha o Recurso que você criou. Também é possível optar por incluir e definir as variantes que você possa querer experimentar. Clique em **Next (Avançar)**.
 
-5. Clique em **Next (Avançar)**.
-6. Selecione um público.   ![Selecionando um público](images/engagement_feature_2.gif)
+5. Selecione um público. Clique em **Next (Avançar)**.
 
-5. Clique em **Next (Avançar)**.
-6. Defina um acionador escolhendo Hora e data de início e data de encerramento. ![Selecionando um público](images/engagement_feature_3.gif)
-7. Clique em **Criar**.
-8. O novo compromisso agora aparece na janela Detalhes do engajamento. ![Selecionando um público](images/engagement_completed.gif)
+6. Defina um acionador escolhendo Horário e a data/hora de **Início** e uma data/hora de **Encerramento**. Clique em **Salvar**.
+
+7. O novo engajamento agora aparece na janela Detalhes do engajamento.
 
 Agora é possível medir o [desempenho](app_measure_performance.html) de seu engajamento.
 
