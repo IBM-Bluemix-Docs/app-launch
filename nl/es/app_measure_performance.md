@@ -11,14 +11,16 @@ copyright:
 {:screen:.screen}
 {:codeblock:.codeblock}
 
-# Análisis de la reacción a la característica
+# Análisis de los resultados de la respuesta
 {: #applaunch_type}
-Última actualización: 12 de octubre de 2017
+Última actualización: 18 de enero de 2018
 {: .last-updated}
 
-App Launch le permite crear y recopilar Métricas de característica para las diferentes fidelizaciones que haya creado.
+<!-- App Launch empowers you to create and collect Feature Metrics for the various engagements that you have created. -->
+App Launch le permite crear y recopilar Métricas de diferentes fidelizaciones que haya creado.
 
-Compruebe que ha realizado todos los [requisitos previos](app_prerequisites.html) y que ha [creado una fidelización mediante Control de características](app_feature_toggle.html). 
+<!-- Ensure that you have gone through and have completed the [prerequisites](app_prerequisites.html) and have [created an engagement using Feature Control](app_feature_toggle.html).  -->
+Compruebe que ha completado todos los [requisitos previos](app_prerequisites.html) y ha creado una fidelización. 
 
 Efectúe los pasos siguientes para recopilar métricas de las fidelizaciones que ha creado:
 
@@ -28,12 +30,12 @@ Efectúe los pasos siguientes para recopilar métricas de las fidelizaciones que
 
 	La información recopilada se mostrará en la ventana Detalles de fidelización. 
 
-	![Información sobre la fidelización](images/engagement_performance.gif)
+	![Información sobre la fidelización](images/engagement_performance.png)
 
 
 El gráfico le ofrece información en tiempo real sobre cómo ha recibido la característica el público objetivo. Puede utilizar la información para conocer los puntos destacados y los puntos débiles y personalizar la característica en consecuencia antes de presentarla al público en general.
 	
-![Información sobre la fidelización](images/engagement_graph.gif)
+![Información sobre la fidelización](images/engagement_graph.png)
  
 
 

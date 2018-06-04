@@ -10,45 +10,47 @@ copyright:
 {:screen:.screen}
 {:codeblock:.codeblock}
 
-# Creación de una fidelización mediante Control de características
+# Configuración de Control de características
 {: #feature_control}
-Última actualización: 12 de octubre de 2017
+Última actualización: 18 de enero de 2018
 {: .last-updated}
 
 Puede crear una fidelización mediante Control de características. 
 
+A través de esta fidelización el propietario de una app puede controlar la visibilidad de una característica habilitando o inhabilitándola durante el tiempo de ejecución.
+
+Se puede habilitar o inhabilitar una característica para todos los usuarios de la aplicación o para un conjunto específico de usuarios y dispositivos. 
+
+Se pueden programar y coordinar las implantaciones de características definiendo la fecha y hora de inicio/fin. Puede seleccionar un día concreto para que la característica definida se habilite o inhabilite.
+
+**Habilitación de la capacidad de control de características**
+
 Compruebe que ha realizado todos los [requisitos previos](app_prerequisites.html) necesarios y que dispone de ellos.
 
-La imagen siguiente le ofrece una visión general de los pasos necesarios para crear una característica.
-	![Característica lista para utilizar](images/feature_animated.gif)
 Efectúe los pasos siguientes para crear una fidelización mediante Control de características:
+
+![gif animado](images/create_engagement.gif)
 
 1. Puede crear una fidelización mediante uno de los métodos siguientes:
 	- Pulse **Fidelizaciones** en el panel de navegación. 
 	- Seleccione **Crear fidelizaciones** en la nueva Característica que ha creado.
 	- En el panel de navegación, pulse **Visión general** > **Crear nueva fidelización**.
-	![Característica lista para utilizar](images/feature_creating.gif)
-2. Aparecerá la ventana Nueva fidelización.
- 
-	![Nueva fidelización](images/engagement_feature_1.gif)
-3. Indique un nombre y una descripción para la nueva fidelización. Indique un nombre de fidelización exclusivo, que no aparezca ya en la lista de Fidelizaciones.
 	
-	Para realizar un experimento controlado con varias variantes de la característica, seleccione **Pruebas A/B** en el Modo de experimentación.
+2. Aparecerá la ventana Nueva fidelización.
+	
+3. Indique un nombre y una descripción para la nueva fidelización. Indique un nombre de fidelización exclusivo, que no aparezca ya en la lista de Fidelizaciones.
 
-4. Pulse **Siguiente**.
-5. Seleccione la nueva Característica que ha creado. También puede seleccionar añadir y definir las variantes con las que es posible que desee experimentar.
-	![Cómo añadir una característica y variantes](images/engagement_feature_5.gif)
+     **Seleccione tipo de fidelización** como **Control de características**	
+	
+	Para realizar un experimento controlado con varias variantes de la característica, seleccione **Pruebas A/B** en **Seleccionar tipo de experimentación**. Pulse **Siguiente**.
+	
+4. Seleccione la nueva Característica que ha creado. También puede seleccionar añadir y definir las variantes con las que es posible experimentar. Pulse **Siguiente**.
 
-5. Pulse **Siguiente**.
-6. Seleccione un público.
-	![Selección de un público](images/engagement_feature_2.gif)
+5. Seleccione un público. Pulse **Siguiente**.
 
-5. Pulse **Siguiente**.
-6. Defina un desencadenante seleccionando la Hora y la fecha de inicio y una fecha de finalización.
-![Selección de un público](images/engagement_feature_3.gif)
-7. Pulse **Crear**.
-8. La nueva fidelización aparecerá en la ventana Detalles de fidelización.
-	![Selección de un público](images/engagement_completed.gif)
+6. Defina un desencadenante seleccionando la fecha y hora de **Inicio** y una fecha y hora de **Fin**. Pulse **Guardar**.
+
+7. La nueva fidelización aparecerá en la ventana Detalles de fidelización.
 
 Ahora puede medir el [rendimiento](app_measure_performance.html) de su fidelización.
 

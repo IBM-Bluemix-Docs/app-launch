@@ -12,7 +12,7 @@ copyright:
 
 # Requisitos previos
 {: #prerequisites}
-Última actualización: 13 de octubre de 2017
+Última actualización: 18 de enero de 2018
 {: .last-updated}
 
 
@@ -20,9 +20,9 @@ copyright:
 {: #prerequisites_1}
 
 1. En [IBM Cloud Catalog](https://console.ng.bluemix.net/catalog/), pulse **Móvil** > **App Launch**.
-2. Indique un nombre de servicio y un nombre de credencial.
-3. Elija conectar con otras apps existentes o dejarlo sin enlazar.
-4. Pulse **Crear**.
+2. Indique un nombre de servicio.
+3. Pulse **Crear**.
+4. Elija conectar con otras apps existentes o dejarlo sin enlazar.
 
 
 Puede elegir crear un servicio enlazado o no enlazado. Los servicios enlazados se conectan a otras apps de IBM Cloud, mientras que los servicios no enlazados son independientes y no están conectados a otras apps. De forma predeterminada, las apps del servicio App Launch no están enlazadas.
@@ -32,8 +32,8 @@ Puede elegir crear un servicio enlazado o no enlazado. Los servicios enlazados s
 
 1. Pulse **Valores**.
 1. Descargue una de los SDK, según su tipo de plataforma:
-	- [iOS](https://github.ibm.com/Engage/bms-clientsdk-ios-swift-engage)
-	- [Android](https://github.ibm.com/Engage/bms-clientsdk-android-engage)
+	- [iOS](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-swift-applaunch)
+	- [Android](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-android-applaunch)
 
 2. Copie las claves de configuración para inicializar la App. Utilice el Secreto de App, el GUID de App y el Secreto de cliente para configurar su app y crear fidelizaciones.
 
@@ -46,24 +46,27 @@ El servicio de {{site.data.keyword.engage_short}} le permite crear y probar reac
 
 Para crear una característica, realice los pasos siguientes:
 
-1. Pulse **Características y métricas** > **Crear característica**.
+![Detalles de característica](images/feature_creation_animated.gif)
 
-2. Actualice el formulario Crear nueva característica y métricas con un nombre de característica y una descripción apropiados. También puede definir las propiedades de la característica y añadir métricas para medir la repercusión de su fidelización.
+1. En el panel de navegación, pulse **Características** > **Crear nueva característica** 
 
-3. Pulse **Crear**. Aparecerá la nueva característica en el panel Características y métricas.
-![Nuevas características](images/feature_creating.gif)
+2. Actualice el formulario Crear nueva característica y métricas con un nombre de característica y una descripción apropiados. También puede definir las propiedades de la característica y añadir métricas para medir la repercusión de su fidelización. Pulse **Edición masiva** para añadir varias propiedades editando el JSON.
 
-4. Para habilitar una característica para utilizarla como fidelización, pulse la Característica que ha creado.
+3. Pulse **Crear**. Aparecerá la nueva característica en el panel Características. 
 
-5. En la ventana Detalles de característica, seleccione Actualizar el estado de la característica a **Listo**.
-![Detalles de característica](images/feature_details.gif)
+4. Habilite la característica una vez desarrollada.
 
-6. Pulse **Actualizar estado**.
+5. Para habilitar una característica para utilizarla como fidelización, pulse la Característica que ha creado.
 
-7. Actualice la app para que se incluyan los códigos de característica y los atributos recién creados en la app de iOS o Android. 
+6. En la ventana Detalles de característica, seleccione Actualizar el estado de la característica a **Listo**.
 
-8. La característica está lista para utilizar.
-![Característica lista para utilizar](images/feature_multiple_1.gif)
+7. Pulse **Actualizar** estado.
+
+8. Actualice la app para que se incluyan los códigos de característica y los atributos recién creados en la app de iOS o Android. 
+
+9. La característica está lista para utilizar.
+
+La ventana Detalles de característica tiene una opción para exportar la característica como un archivo JSON que puede ser utilizado en la aplicación cliente para cargar los valores predeterminados.
 
 
 ## Creación de un público
@@ -71,24 +74,22 @@ Para crear una característica, realice los pasos siguientes:
 
 Para crear un público, realice los pasos siguientes:
 
+![Crear público](images/create_audience_animated.gif)
+
 1. Cree un atributo de público. 
 
-	a. Pulse **Público** > **Crear atributo de público**.
+	Pulse en **Público** > **Crear atributo**.
 
-	b. Indique los siguientes valores:
+	Indique los siguientes valores:
 
 	- **Nombre**: indique un nombre apropiado para el atributo.
 	- **Descripción**: una breve descripción del atributo.
 	- **Tipo**: seleccione el tipo de atributo.
 	- **Valores permitidos**: indique los valores de atributo que desea utilizar.
 
-	![Atributos de público](images/audience_attribute_creation.gif)
-
-	En función de lo que necesite, puede crear diversos atributos de público, como muestra la lista de la imagen siguiente.
+    En función de lo que necesite, puede crear diversos atributos de público, como muestra la lista de la imagen siguiente.
 	
-	![Atributos de público](images/audience_attributes.gif)
-
-
+	
 2. Cree un público.
 
 	a. Pulse **Crear público**.
@@ -97,10 +98,10 @@ Para crear un público, realice los pasos siguientes:
 
 	c. Seleccione un atributo y pulse **Añadir**.
 
-	![Atributos de público](images/audience_platforms.gif)
-
-	d. Seleccione las opciones necesarias de la lista de atributos.
+    d. Seleccione las opciones necesarias de la lista de atributos.
 
 	e. Pulse **Guardar**.
+	
+	Ahora podrá crear una fidelización.
 
-Ahora puede crear una fidelización mediante la opción [Control de características](app_feature_toggle.html).
+<!-- You can now create an engagement using the [Feature Control](app_feature_toggle.html) option. -->
