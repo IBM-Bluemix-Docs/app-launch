@@ -1,7 +1,7 @@
 ---
 
 copyright:
- years: 2017
+ years: 2017, 2018, 2019
 
 ---
 
@@ -12,14 +12,14 @@ copyright:
 
 # Prerequisites
 {: #prerequisites}
-Last updated: 18 January 2018
+Last updated: 17 February 2019
 {: .last-updated}
 
 
 ## Creating an App Launch service instance
 {: #prerequisites_1}
 
-1. In the [IBM Cloud Catalog](https://console.ng.bluemix.net/catalog/), click **Mobile** > **App Launch**.
+1. In the [IBM Cloud Catalog](https://cloud.ibm.com/catalog/), click **Mobile** > **App Launch**.
 2. Provide a Service name.
 3. Click **Create**.
 4. Choose to connect to other existing apps, or leave it unbound.
@@ -105,4 +105,4 @@ To create an audience, complete the following steps:
 	
 	You can now create an engagement.
 
-<!-- You can now create an engagement using the [Feature Control](app_feature_toggle.html) option. -->
+<!-- You can now create an engagement using the [Feature Control](/docs/services/app-launch/app_feature_toggle.html) option. -->

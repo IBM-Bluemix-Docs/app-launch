@@ -2,7 +2,7 @@
 {: navgroup: .navgroup}
 {: topicgroup: .topicgroup}
 
-{: .toc subcollection="app-launch" audience="service" arm="2892690" href="/docs/services/app-launch/index.html" path="services/app-launch"}
+{: .toc subcollection="app-launch" service-name="App Launch" audience="service" arm="2892690" href="/docs/services/app-launch/index.html" path="services/app-launch"}
 App Launch
 
     {: .navgroup id="learn"}
@@ -32,9 +32,3 @@ App Launch
     release-notes.md
     troubleshooting.md	
     {: .navgroup-end}
-	
-
-    
-
-        
-    

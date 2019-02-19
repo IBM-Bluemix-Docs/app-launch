@@ -1,7 +1,7 @@
 ---
 
 copyright:
-years: 2017
+years: 2017, 2018, 2019
 
 ---
 
@@ -14,7 +14,7 @@ years: 2017
 
 # Getting started tutorial
 {: #gettingstartedtemplate}
-Last updated: 18 January 2018
+Last updated: 17 February 2019
 {: .last-updated}
 
 {:shortdesc}

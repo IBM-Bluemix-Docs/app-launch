@@ -1,7 +1,7 @@
 ---
 
 copyright:
- years: 2018
+ years: 2018, 2019
 
 ---
 
@@ -12,7 +12,7 @@ copyright:
 
 # SDKs for App Launch
 {: #install-sdk}
-Last updated: 18 January 2018
+Last updated: 17 February 2019
 {: .last-updated}
 
 The App Launch Client SDKs are currently available for Android and iOS. Below are the links to install platform specific SDKs.

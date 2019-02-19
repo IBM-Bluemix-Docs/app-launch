@@ -1,7 +1,7 @@
 ---
 
 copyright:
- years: 2017
+ years: 2017, 2018, 2019
 
 ---
 
@@ -12,7 +12,7 @@ copyright:
 
 # Setup Feature Control
 {: #feature_control}
-Last updated: 18 January 2018
+Last updated: 17 February 2019
 {: .last-updated}
 
 You can create an engagement using Feature Control. 
@@ -25,7 +25,7 @@ Feature roll outs can be scheduled and co-ordinated by defining a start/end time
 
 **Enabling Feature Control Capability**
 
-Ensure that you have gone through and have the necessary [prerequisites](app_prerequisites.html) in place.
+Ensure that you have gone through and have the necessary [prerequisites](/docs/services/app-launch/app_prerequisites.html) in place.
 
 Complete the following steps to create an engagement using the Feature Control:
 
@@ -52,6 +52,5 @@ Complete the following steps to create an engagement using the Feature Control:
 
 7. The new engagement now appears in the Engagement Details window.
 
-You can now measure the [performance](app_measure_performance.html) of your engagement.
-
+You can now measure the [performance](/docs/services/app-launch/app_measure_performance.html) of your engagement.
 
